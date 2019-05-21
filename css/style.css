@@ -16,10 +16,11 @@ h3 {
 
 p {
   font-size: 16px;
+  padding: 7px 0px 7px 0px;
 }
 
 nav {
-  background-color: rgba(0,0,0,.5);
+  background-color: #005c60;
   float: left;
   position: fixed;
   width: 100%;
@@ -31,7 +32,7 @@ a {
 }
 
 a:hover {
-  color: #004c4c;
+ color: #ffcf40;
 }
 
 .logo {
